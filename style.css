@@ -1,0 +1,39 @@
+table{
+    width: 90vw;
+    border: 3px solid black;
+    border-radius: 0.5rem;
+}
+
+caption{
+    color: brown;
+}
+.weekName{
+    color: darkblue;
+    font-weight: 900;
+    font-size: 1.3rem;
+}
+
+thead{
+ color: darkblue;  
+ font-size: 1.5rem; 
+ border-radius: 2rem;
+  
+} 
+td  {
+    background-color: hsl(199, 33%, 90%); 
+    border: 1px solid black;
+    border-radius: 5px;
+}
+th  {
+    background-color: cornflowerblue  ;
+    border: 2.5px solid black; 
+    border-radius: 5px;
+} 
+
+th, td{
+    padding: 5px 5px
+}
+.teacherName{
+    color: rgb(196, 67, 20);
+     
+}
